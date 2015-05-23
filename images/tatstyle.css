@@ -1,0 +1,95 @@
+body { 	background-color:#e1e2eb; font-family: Verdana, Tahoma, Helvetica, sans-serif; background-image: url(webimages/bgg03.gif);
+
+        SCROLLBAR-FACE-COLOR: #cccccc; 
+	SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; 
+	SCROLLBAR-SHADOW-COLOR: #999999; 
+	SCROLLBAR-3DLIGHT-COLOR: #999999; 
+	SCROLLBAR-ARROW-COLOR: #ffffff; 
+	SCROLLBAR-DARKSHADOW-COLOR: #ffffff; 
+	SCROLLBAR-BASE-COLOR: #999999;
+	SCROLLBAR-TRACK-COLOR: #e1e2eb;
+		 
+}
+
+.regtext	{ text-decoration : none; font-size:11px; color : #CC6699; }
+a.regtext		{ color: #006699; text-decoration: none; }
+a.regtext:hover	{ color: #C23030; text-decoration: underline; }
+
+.story	{ text-decoration : none; text-align: justify; color : #990099; }
+
+.tit	{ text-decoration: none; font-size:15px; font-weight: bold; color : #9900FF; }
+
+.cat	{ text-decoration: none; font-size:11px; font-weight: bold; color : #78267F; }
+
+.menu		{ font-size : 12px; text-decoration : none;  }
+a.menu		{ text-decoration: none; color : Blue;  font-weight: 300;   }
+a.menu:hover	{ text-decoration: underline overline; color : #CC33FF; background-color : #CCFFFF; }
+
+.bianca		{ font-size : 12px; font-weight : bold; color : #000000 }
+a.bianca		{ text-decoration: none; color : #7B68EE;  }
+a.bianca:hover{ text-decoration: underline; color : #C23030; }
+
+.nav		{ font-size : 10px; color : #000000; }
+a.nav		{ color: #006699; text-decoration: none; }
+a.nav:hover	{ color: #C23030; text-decoration: underline; }
+
+.pagenav		{ font-size : 13px; color : #000000; font-weight: bold;}
+a.pagenav		{ color: #1E90FF; text-decoration: none; }
+a.pagenav:hover	{ color: #C23030; text-decoration: underline overline;}
+
+.pagenav2		{ font-size : 10px; color : #000000; font-weight: bold;}
+a.pagenav2		{ color: #1E90FF; text-decoration: none; font-weight: bold;}
+a.pagenav2:hover	{ color: #C23030; text-decoration: underline overline; font-weight: bold;}
+
+.storylink      { text-decoration: none; font-size:12px; font-weight: bold;}
+a.storylink	{ text-decoration: none; }
+a.storylink:visited  { text-decoration: none;}
+a.storylink:hover { text-decoration: underline; color: #C23030 }
+
+.s_desc {  	color: #666666; font-size: 11px; font-style: italic; }
+
+.blah      { text-decoration: none; font-size:12px; font-weight: bold;}
+a.blah	{ text-decoration: none; }
+a.blah:visited  { text-decoration: none; }
+a.blah:hover { text-decoration: underline; color: #C23030 }
+
+.blah2      { text-decoration: none; font-size:10px; font-weight: bold;}
+a.blah2	{ text-decoration: none; }
+a.blah2:visited  { text-decoration: none; }
+a.blah2:hover { text-decoration: underline; color: #C23030 }
+
+.nice_table {  background-color: #FFEAF8; }
+
+.highlight {  background-color: #CCCCCC; }
+
+.recordbg {  background-color: #FFFFFF;
+	font-size: 10px;
+	text-align: center;
+ }
+ 
+ .content_text {  background-color: #FFFFFF;
+	padding: 2px 15px 15px 15px;
+	text-align: justify;
+ }
+
+
+.topichead	{
+	background-color: #FAF9E0; height: 18px;
+	font-size : 10px;
+	text-align: center;
+	
+}
+
+.tablehead	{
+	background-color: #F8F8FF; height: 22px;
+	font-size : 13px;
+	text-align: center;
+	font-weight: bold;
+	color: #FE5BFF;
+	background-image: url(webimages/headingbg.gif);
+}
+
+.topicbot	{
+	background-color: #E4F3F9; height: 25px;
+}
+
